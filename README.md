@@ -4,6 +4,5 @@ This project is a Mental Healthcare Management System built with PHP and MySQL. 
 
 
 
-🔗 Live Preview: 
+[Live Preview](http://MHCPMS.infinityfreeapp.com)
 
-MHCPMS.infinityfreeapp.com
