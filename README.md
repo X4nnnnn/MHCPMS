@@ -1,7 +1,7 @@
 
-This project is a Mental Healthcare Management System developed using PHP and MySQL. It allows users to perform basic CRUD (Create, Read, Update, Delete) operations to manage mental health records
+🧠 Mental Healthcare Management System
+This project is a Mental Healthcare Management System built with PHP and MySQL. It provides a streamlined platform for managing mental health records with full CRUD (Create, Read, Update, Delete) functionality.
 
 
 
-preview:
-https://crum-pied.vercel.app/
+🔗 Live Preview: MHCPMS.infinityfreeapp.com
